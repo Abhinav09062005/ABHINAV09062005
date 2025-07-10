@@ -1,8 +1,4 @@
-# Hi there 👋, I'm Abhinav Anand
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20my%20Digital%20World&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Graphics%20Designer&descAlignY=51&descAlign=50"/>
-</div>
+ # Hi there 👋, I'm Abhinav Anand
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Enthusiast;Full-Stack+Developer;Computer+Science+Student;Graphics+Designer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22&pause=1000">
@@ -17,15 +13,9 @@
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ---
 
-<details>
-<summary>🚀 About Me (Click to expand)</summary>
-<br>
+## 🚀 About Me
 
 ```python
 abhinav = {
@@ -33,28 +23,19 @@ abhinav = {
     "location": "India 🇮🇳",
     "education": "B.Tech Computer Science Engineering",
     "focus": ["AI/ML", "Full-Stack Development", "Data Analytics", "Graphics Design"],
-    "current_status": "Building the future with code",
     "fun_fact": "I turn ideas into digital reality ✨ → 💻"
 }
 ```
 
 I'm a passionate Computer Science student specializing in **AI/ML**, **Full-Stack Development**, **Data Analytics**, and **Graphics Design**. I love creating innovative solutions that bridge the gap between cutting-edge technology and real-world applications. My journey involves continuous learning, building impactful projects, and contributing to the tech community.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-</div>
-
-</details>
-
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -83,40 +64,11 @@ I'm a passionate Computer Science student specializing in **AI/ML**, **Full-Stac
 
 ---
 
-<details>
-<summary>📊 Skill Progress Bars (Click to expand)</summary>
-<br>
-
-**Programming Languages:**
-- Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![85%](https://progress-bar.dev/85/?color=3776AB&scale=100&width=200)
-- JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![80%](https://progress-bar.dev/80/?color=F7DF1E&scale=100&width=200)
-- C/C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![75%](https://progress-bar.dev/75/?color=00599C&scale=100&width=200)
-- Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![70%](https://progress-bar.dev/70/?color=0175C2&scale=100&width=200)
-
-**Frameworks & Technologies:**
-- React &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![80%](https://progress-bar.dev/80/?color=61DAFB&scale=100&width=200)
-- Node.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![75%](https://progress-bar.dev/75/?color=339933&scale=100&width=200)
-- TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![70%](https://progress-bar.dev/70/?color=FF6F00&scale=100&width=200)
-- Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![65%](https://progress-bar.dev/65/?color=02569B&scale=100&width=200)
-
-**Design & Analytics:**
-- Data Analytics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![80%](https://progress-bar.dev/80/?color=FF6B6B&scale=100&width=200)
-- Graphics Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![85%](https://progress-bar.dev/85/?color=FF0000&scale=100&width=200)
-- UI/UX Design &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![75%](https://progress-bar.dev/75/?color=F24E1E&scale=100&width=200)
-
-</details>
-
----
-
-## 🏆 GitHub Trophies & Achievements
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav09062005&theme=nord&column=7&margin-h=8&margin-w=8&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav09062005&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinav09062005&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav09062005&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinav09062005&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
@@ -129,13 +81,7 @@ I'm a passionate Computer Science student specializing in **AI/ML**, **Full-Stac
 
 ---
 
-<details>
-<summary>🎯 What I'm Working On (Click to expand)</summary>
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
+## 🎯 What I'm Working On
 
 - 🔭 Currently exploring **Advanced AI/ML algorithms** and **Deep Learning**
 - 🌱 Learning **Flutter** for cross-platform mobile development
@@ -143,34 +89,13 @@ I'm a passionate Computer Science student specializing in **AI/ML**, **Full-Stac
 - 💬 Ask me about **Python, JavaScript, React, TensorFlow, or Graphics Design**
 - ⚡ Fun fact: I believe in the power of **creative coding** - where technology meets art!
 
-### Current Focus Areas:
-- 🧠 **Machine Learning**: Building intelligent systems
-- 🎨 **UI/UX Design**: Creating beautiful user experiences
-- 📱 **Mobile Development**: Cross-platform app development
-- 🌐 **Web Development**: Full-stack applications
-
-</details>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhinav09062005/Abhinav09062005/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <br>
-  <strong>I'm always excited to collaborate on interesting projects or discuss new opportunities!</strong>
-  <br><br>
-</div>
 
-<div align="center">
+I'm always excited to collaborate on interesting projects or discuss new opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-anand-8616852a6)
 [![Email](https://img.shields.io/badge/Email-abhinavanandhcs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavanandhcs@gmail.com)
@@ -187,15 +112,15 @@ I'm a passionate Computer Science student specializing in **AI/ML**, **Full-Stac
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-  <br>
-  <strong>⚡ "Turning Ideas Into Digital Reality" ⚡</strong>
-  <br><br>
-  <em>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</em> 🚀
+  
+**⚡ "Turning Ideas Into Digital Reality" ⚡**
+
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.* 🚀
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
